@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+dailyMeet/__init__.py
+dailyMeet/dailyMeet.py
+dailyMeet.egg-info/PKG-INFO
+dailyMeet.egg-info/SOURCES.txt
+dailyMeet.egg-info/dependency_links.txt
+dailyMeet.egg-info/requires.txt
+dailyMeet.egg-info/top_level.txt
